@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Handwritten Text Recognition with TensorFLow
+# Handwritten Text Recognition with 
 =======
 # Handwritten Text Recognition with TensorFLow
 >>>>>>> 5a60e373417130f4a90e579905977b352bba59e5
