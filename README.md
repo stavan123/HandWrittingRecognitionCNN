@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Handwritten Text Recognition with 
+=======
+# Handwritten Text Recognition with TensorFLow
+>>>>>>> 5a60e373417130f4a90e579905977b352bba59e5
 
 Handwritten Text Recognition (HTR) system implemented with TensorFlow (TF) and trained on the IAM off-line HTR dataset.
 This Neural Network (NN) model recognizes the text contained in the images of segmented words as shown in the illustration below.
